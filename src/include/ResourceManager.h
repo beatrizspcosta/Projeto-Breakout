@@ -13,6 +13,8 @@ typedef struct ResourceManager {
     Texture2D textureExample;
     Sound soundExample;
     Music musicExample;
+    Music musicVitoria;
+    Music musicGameOver;
 } ResourceManager;
 
 /**
